@@ -1,0 +1,6 @@
+name: ChatManager
+version: 1.0.0
+author: Nistro
+description: Simple chat manager plugin using vault and placeholderAPI dependencies
+main: fr.nistro.chatmanager.Main
+api: INVALID
